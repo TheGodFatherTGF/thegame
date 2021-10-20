@@ -10,5 +10,5 @@
   "MenuMusic": "RPG-Theme_v001_Looping.ogg",
   "MenuBackground": "background.png",
   "IntroImages": [],
-  "UpdateUrl": "https://localhost:8080/update.json"
+  "UpdateUrl": "https://localhost:8443/update.json"
 }
