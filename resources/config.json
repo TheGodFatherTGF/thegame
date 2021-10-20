@@ -1,6 +1,6 @@
 ﻿{
-  "Host": "localhost",
-  "Port": 5400,
+  "Host": "na1.hosting.freemmorpgmaker.com",
+  "Port": 5807,
   "GameFont": "sourcesansproblack",
   "EntityNameFont": "sourcesansproblack",
   "ChatBubbleFont": "sourcesansproblack",
@@ -10,5 +10,5 @@
   "MenuMusic": "RPG-Theme_v001_Looping.ogg",
   "MenuBackground": "background.png",
   "IntroImages": [],
-  "UpdateUrl": ""
+  "UpdateUrl": "https://localhost:8080/update.json"
 }
